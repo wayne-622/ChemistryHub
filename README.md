@@ -3,13 +3,20 @@
 一个在浏览器里查化学方程式的网站：输入反应物与产物，立刻得到配平后的方程式、氧化还原分析和相关物质资料。
 
 - 在线地址：https://demo.chemistryformulahub.cn/
-- 当前发布版本：**v11.1.6**
+- 当前发布版本：**v11.1.8**
 - 形态：纯前端静态站点，打开即用，无需注册或安装
 
 ## 更新日志
 
 <details open>
-<summary><strong>v11.1.6</strong>（当前版本）</summary>
+<summary><strong>v11.1.8</strong>（当前版本）</summary>
+
+「打开页面时的动画」优化了动画播放逻辑
+
+</details>
+
+<details>
+<summary><strong>v11.1.7</strong></summary>
 
 - **新增「反馈错误」按钮**：方程页可一键唤起邮件客户端，自动填好页面链接、方程式与版本号，发送至 `problem@chemistryformulahub.cn`
 
