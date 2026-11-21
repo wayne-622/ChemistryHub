@@ -1,18 +1,26 @@
-# Chemistry Hub - Version 11.4.0
+# Chemistry Hub - Version 11.4.3
 
 一个在浏览器里查化学方程式的网站：输入反应物与产物，立刻得到配平后的方程式、氧化还原分析和相关物质资料。
 
 - 即日起，为防止逆向，Chemistry Hub 不再向 GitHub 上传 dist 目录，仅上传必要的更新日志
 
 - 在线地址：https://demo.chemistryformulahub.cn/
-- 当前发布版本：**v11.4.0**
+- 当前发布版本：**v11.4.3**
 
 ## 更新日志
 
 每次更新须同步补记变更；正式发布时，将「未发布」条目归入对应版本。
 
 <details open>
-<summary><strong>v11.4.0</strong>（当前版本）</summary>
+<summary><strong>v11.4.3</strong>（当前版本）</summary>
+
+- **调整动画**：优化了部分动画
+- **改善键盘操作**：搜索补全提供展开和选中状态，高级搜索增删条件后把焦点移到对应控件。
+
+</details>
+
+<details>
+<summary><strong>v11.4.0</strong></summary>
 
 **本次更新**
 - **修正错误物质与反应**：钠与一氧化二氮改生成 `Na2O` 并移除 `NaON`；碘、二氧化硫与水反应改生成硫酸根而非错误的硫酸氢根；同步修正甲烷氯化产物、亚铁水合物配位水数量及若干直接氧化、复分解反应。
